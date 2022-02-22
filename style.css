@@ -1,0 +1,24 @@
+body{
+    background-image: url(IMG/Background.png);
+}
+
+.header{
+    background-image: url("IMG/Background_header.png");
+    background-size:cover;
+    border: 5px solid black;
+}
+
+.block_1{
+display: flex;
+background: gray;
+border: 5px solid black;
+font-size: 30px;
+}
+
+.block_2{
+    display: flex;
+    background: gray;
+    border: 5px solid black;
+    font-size: 30px;
+    }
+
